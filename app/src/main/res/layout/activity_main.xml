@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="47dp"
         android:layout_marginTop="40dp"
-        android:text="dahye의 버튼"
+        android:text="@string/dahye"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
